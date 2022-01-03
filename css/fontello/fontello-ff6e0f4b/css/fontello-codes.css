@@ -1,0 +1,9 @@
+
+.icon-play:before { content: '\e4a1'; } /* '' */
+.icon-up:before { content: '\e800'; } /* '' */
+.icon-left-circle:before { content: '\e801'; } /* '' */
+.icon-right-circle:before { content: '\e802'; } /* '' */
+.icon-pause:before { content: '\e803'; } /* '' */
+.icon-th:before { content: '\e804'; } /* '' */
+.icon-up-micro:before { content: '\e805'; } /* '' */
+.icon-github:before { content: '\f300'; } /* '' */

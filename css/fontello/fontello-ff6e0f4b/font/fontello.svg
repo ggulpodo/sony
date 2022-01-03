@@ -1,0 +1,26 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2021 by original authors @ fontello.com</metadata>
+<defs>
+<font id="fontello" horiz-adv-x="1000" >
+<font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="play" unicode="&#xe4a1;" d="M772 333l-741-412q-13-7-22-2t-9 20v822q0 14 9 20t22-2l741-412q13-7 13-17t-13-17z" horiz-adv-x="785.7" />
+
+<glyph glyph-name="up" unicode="&#xe800;" d="M18 352l446 445 447-445-159-159-176 177 0-467-223 0 0 467-177-177z" horiz-adv-x="928" />
+
+<glyph glyph-name="left-circle" unicode="&#xe801;" d="M1000 349q0-136-67-251t-182-182-251-67-251 67-182 182-67 251 67 251 182 182 251 67 251-67 182-182 67-251z m-453-232l71 71-161 161 161 161-71 71-233-232z" horiz-adv-x="1000" />
+
+<glyph glyph-name="right-circle" unicode="&#xe802;" d="M1000 349q0-136-67-251t-182-182-251-67-251 67-182 182-67 251 67 251 182 182 251 67 251-67 182-182 67-251z m-547-232l233 232-233 232-71-71 161-161-161-161z" horiz-adv-x="1000" />
+
+<glyph glyph-name="pause" unicode="&#xe803;" d="M857 743v-786q0-14-10-25t-26-11h-285q-15 0-25 11t-11 25v786q0 14 11 25t25 11h285q15 0 26-11t10-25z m-500 0v-786q0-14-10-25t-26-11h-285q-15 0-25 11t-11 25v786q0 14 11 25t25 11h285q15 0 26-11t10-25z" horiz-adv-x="857.1" />
+
+<glyph glyph-name="th" unicode="&#xe804;" d="M0-150l0 250 250 0 0-250-250 0z m0 375l0 250 250 0 0-250-250 0z m0 375l0 250 250 0 0-250-250 0z m375-750l0 250 250 0 0-250-250 0z m0 375l0 250 250 0 0-250-250 0z m0 375l0 250 250 0 0-250-250 0z m375-750l0 250 250 0 0-250-250 0z m0 375l0 250 250 0 0-250-250 0z m0 375l0 250 250 0 0-250-250 0z" horiz-adv-x="1000" />
+
+<glyph glyph-name="up-micro" unicode="&#xe805;" d="M471 231h-471l235 236z" horiz-adv-x="471" />
+
+<glyph glyph-name="github" unicode="&#xf300;" d="M620 286q26 0 45-26t19-64-19-64-45-26q-28 0-47 26t-19 64 19 64 47 26z m226 234q74-80 74-194 0-74-17-133t-43-96-64-65-70-41-73-20-62-8-45-1q-6 0-36-1t-50-1-50 1-36 1q-24 0-45 1t-62 8-73 20-70 41-64 65-43 96-17 133q0 114 74 194-8 4-1 80t33 140q92-10 228-104 46 12 126 12 84 0 126-12 62 42 119 68t83 30l26 6q26-64 33-140t-1-80z m-384-514q166 0 251 40t85 164q0 72-54 120-28 26-65 32t-113 0-104-6l-4 0q-32 0-83 4t-80 5-63-7-56-28q-52-46-52-120 0-124 84-164t250-40l4 0z m-160 280q26 0 45-26t19-64-19-64-45-26q-28 0-47 26t-19 64 19 64 47 26z" horiz-adv-x="920" />
+</font>
+</defs>
+</svg>
